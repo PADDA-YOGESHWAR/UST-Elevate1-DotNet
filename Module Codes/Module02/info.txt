@@ -1,0 +1,2 @@
+Module 02 covers about pillars of OOPS with project. The content is not clear in the module about the programming.
+So I'll create some own codes and update it later
