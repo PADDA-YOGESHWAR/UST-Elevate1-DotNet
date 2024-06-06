@@ -3,9 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34902.65
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01IntroToCsharp", "01IntroToCsharp\01IntroToCsharp.csproj", "{01D4F5BD-58E5-470C-B57C-C91D8153CD4A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01IntroToCsharp", "01IntroToCsharp\01IntroToCsharp.csproj", "{01D4F5BD-58E5-470C-B57C-C91D8153CD4A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02DataConversions", "02DataConversions\02DataConversions.csproj", "{A16DF026-C612-421C-8656-1234AABD7E46}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02DataConversions", "02DataConversions\02DataConversions.csproj", "{A16DF026-C612-421C-8656-1234AABD7E46}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03Methods", "03Methods\03Methods.csproj", "{A77CAEC7-33BE-4E55-ABA8-3D5348536E63}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04MethodReferenceValueTypes", "04MethodReferenceValueTypes\04MethodReferenceValueTypes.csproj", "{AF9EBEFA-6691-4E28-B183-8A210661C96E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05Class", "05Class\05Class.csproj", "{83452D53-1F9A-4690-B0A7-6104E450C831}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +27,18 @@ Global
 		{A16DF026-C612-421C-8656-1234AABD7E46}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A16DF026-C612-421C-8656-1234AABD7E46}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A16DF026-C612-421C-8656-1234AABD7E46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A77CAEC7-33BE-4E55-ABA8-3D5348536E63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A77CAEC7-33BE-4E55-ABA8-3D5348536E63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A77CAEC7-33BE-4E55-ABA8-3D5348536E63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A77CAEC7-33BE-4E55-ABA8-3D5348536E63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF9EBEFA-6691-4E28-B183-8A210661C96E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF9EBEFA-6691-4E28-B183-8A210661C96E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF9EBEFA-6691-4E28-B183-8A210661C96E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF9EBEFA-6691-4E28-B183-8A210661C96E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83452D53-1F9A-4690-B0A7-6104E450C831}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83452D53-1F9A-4690-B0A7-6104E450C831}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83452D53-1F9A-4690-B0A7-6104E450C831}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83452D53-1F9A-4690-B0A7-6104E450C831}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
