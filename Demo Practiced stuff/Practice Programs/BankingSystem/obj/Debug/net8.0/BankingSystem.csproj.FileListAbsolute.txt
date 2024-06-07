@@ -1,0 +1,15 @@
+D:\Dot net\Demo Practiced stuff\Practice Programs\BankingSystem\bin\Debug\net8.0\BankingSystem.exe
+D:\Dot net\Demo Practiced stuff\Practice Programs\BankingSystem\bin\Debug\net8.0\BankingSystem.deps.json
+D:\Dot net\Demo Practiced stuff\Practice Programs\BankingSystem\bin\Debug\net8.0\BankingSystem.runtimeconfig.json
+D:\Dot net\Demo Practiced stuff\Practice Programs\BankingSystem\bin\Debug\net8.0\BankingSystem.dll
+D:\Dot net\Demo Practiced stuff\Practice Programs\BankingSystem\bin\Debug\net8.0\BankingSystem.pdb
+D:\Dot net\Demo Practiced stuff\Practice Programs\BankingSystem\obj\Debug\net8.0\BankingSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dot net\Demo Practiced stuff\Practice Programs\BankingSystem\obj\Debug\net8.0\BankingSystem.AssemblyInfoInputs.cache
+D:\Dot net\Demo Practiced stuff\Practice Programs\BankingSystem\obj\Debug\net8.0\BankingSystem.AssemblyInfo.cs
+D:\Dot net\Demo Practiced stuff\Practice Programs\BankingSystem\obj\Debug\net8.0\BankingSystem.csproj.CoreCompileInputs.cache
+D:\Dot net\Demo Practiced stuff\Practice Programs\BankingSystem\obj\Debug\net8.0\BankingSystem.sourcelink.json
+D:\Dot net\Demo Practiced stuff\Practice Programs\BankingSystem\obj\Debug\net8.0\BankingSystem.dll
+D:\Dot net\Demo Practiced stuff\Practice Programs\BankingSystem\obj\Debug\net8.0\refint\BankingSystem.dll
+D:\Dot net\Demo Practiced stuff\Practice Programs\BankingSystem\obj\Debug\net8.0\BankingSystem.pdb
+D:\Dot net\Demo Practiced stuff\Practice Programs\BankingSystem\obj\Debug\net8.0\BankingSystem.genruntimeconfig.cache
+D:\Dot net\Demo Practiced stuff\Practice Programs\BankingSystem\obj\Debug\net8.0\ref\BankingSystem.dll

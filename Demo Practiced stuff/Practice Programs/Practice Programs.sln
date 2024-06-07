@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34902.65
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Copy constructor", "Copy constructor\Copy constructor.csproj", "{6FAE1E0F-C81C-4DB3-A583-E13E7F972C78}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Copy constructor", "Copy constructor\Copy constructor.csproj", "{6FAE1E0F-C81C-4DB3-A583-E13E7F972C78}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "privateConstructor", "privateConstructor\privateConstructor.csproj", "{A2B0136B-A343-43A1-8477-047B33445DA4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "privateConstructor", "privateConstructor\privateConstructor.csproj", "{A2B0136B-A343-43A1-8477-047B33445DA4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankingSystem", "BankingSystem\BankingSystem.csproj", "{09D1CB56-0F52-4E3D-AC76-F14DA3016624}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{A2B0136B-A343-43A1-8477-047B33445DA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A2B0136B-A343-43A1-8477-047B33445DA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A2B0136B-A343-43A1-8477-047B33445DA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09D1CB56-0F52-4E3D-AC76-F14DA3016624}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09D1CB56-0F52-4E3D-AC76-F14DA3016624}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09D1CB56-0F52-4E3D-AC76-F14DA3016624}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09D1CB56-0F52-4E3D-AC76-F14DA3016624}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
