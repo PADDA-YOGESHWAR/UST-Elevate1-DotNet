@@ -1,0 +1,15 @@
+D:\Dot net\Demo Practiced stuff\Practice Programs\privateConstructor\bin\Debug\net8.0\privateConstructor.exe
+D:\Dot net\Demo Practiced stuff\Practice Programs\privateConstructor\bin\Debug\net8.0\privateConstructor.deps.json
+D:\Dot net\Demo Practiced stuff\Practice Programs\privateConstructor\bin\Debug\net8.0\privateConstructor.runtimeconfig.json
+D:\Dot net\Demo Practiced stuff\Practice Programs\privateConstructor\bin\Debug\net8.0\privateConstructor.dll
+D:\Dot net\Demo Practiced stuff\Practice Programs\privateConstructor\bin\Debug\net8.0\privateConstructor.pdb
+D:\Dot net\Demo Practiced stuff\Practice Programs\privateConstructor\obj\Debug\net8.0\privateConstructor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dot net\Demo Practiced stuff\Practice Programs\privateConstructor\obj\Debug\net8.0\privateConstructor.AssemblyInfoInputs.cache
+D:\Dot net\Demo Practiced stuff\Practice Programs\privateConstructor\obj\Debug\net8.0\privateConstructor.AssemblyInfo.cs
+D:\Dot net\Demo Practiced stuff\Practice Programs\privateConstructor\obj\Debug\net8.0\privateConstructor.csproj.CoreCompileInputs.cache
+D:\Dot net\Demo Practiced stuff\Practice Programs\privateConstructor\obj\Debug\net8.0\privateConstructor.sourcelink.json
+D:\Dot net\Demo Practiced stuff\Practice Programs\privateConstructor\obj\Debug\net8.0\privateConstructor.dll
+D:\Dot net\Demo Practiced stuff\Practice Programs\privateConstructor\obj\Debug\net8.0\refint\privateConstructor.dll
+D:\Dot net\Demo Practiced stuff\Practice Programs\privateConstructor\obj\Debug\net8.0\privateConstructor.pdb
+D:\Dot net\Demo Practiced stuff\Practice Programs\privateConstructor\obj\Debug\net8.0\privateConstructor.genruntimeconfig.cache
+D:\Dot net\Demo Practiced stuff\Practice Programs\privateConstructor\obj\Debug\net8.0\ref\privateConstructor.dll
