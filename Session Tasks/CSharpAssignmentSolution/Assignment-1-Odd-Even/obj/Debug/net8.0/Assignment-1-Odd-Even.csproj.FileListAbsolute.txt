@@ -1,0 +1,15 @@
+D:\Dot net\Session Tasks\CSharpAssignmentSolution\Assignment-1-Odd-Even\bin\Debug\net8.0\Assignment-1-Odd-Even.exe
+D:\Dot net\Session Tasks\CSharpAssignmentSolution\Assignment-1-Odd-Even\bin\Debug\net8.0\Assignment-1-Odd-Even.deps.json
+D:\Dot net\Session Tasks\CSharpAssignmentSolution\Assignment-1-Odd-Even\bin\Debug\net8.0\Assignment-1-Odd-Even.runtimeconfig.json
+D:\Dot net\Session Tasks\CSharpAssignmentSolution\Assignment-1-Odd-Even\bin\Debug\net8.0\Assignment-1-Odd-Even.dll
+D:\Dot net\Session Tasks\CSharpAssignmentSolution\Assignment-1-Odd-Even\bin\Debug\net8.0\Assignment-1-Odd-Even.pdb
+D:\Dot net\Session Tasks\CSharpAssignmentSolution\Assignment-1-Odd-Even\obj\Debug\net8.0\Assignment-1-Odd-Even.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dot net\Session Tasks\CSharpAssignmentSolution\Assignment-1-Odd-Even\obj\Debug\net8.0\Assignment-1-Odd-Even.AssemblyInfoInputs.cache
+D:\Dot net\Session Tasks\CSharpAssignmentSolution\Assignment-1-Odd-Even\obj\Debug\net8.0\Assignment-1-Odd-Even.AssemblyInfo.cs
+D:\Dot net\Session Tasks\CSharpAssignmentSolution\Assignment-1-Odd-Even\obj\Debug\net8.0\Assignment-1-Odd-Even.csproj.CoreCompileInputs.cache
+D:\Dot net\Session Tasks\CSharpAssignmentSolution\Assignment-1-Odd-Even\obj\Debug\net8.0\Assignment-1-Odd-Even.sourcelink.json
+D:\Dot net\Session Tasks\CSharpAssignmentSolution\Assignment-1-Odd-Even\obj\Debug\net8.0\Assignment-1-Odd-Even.dll
+D:\Dot net\Session Tasks\CSharpAssignmentSolution\Assignment-1-Odd-Even\obj\Debug\net8.0\refint\Assignment-1-Odd-Even.dll
+D:\Dot net\Session Tasks\CSharpAssignmentSolution\Assignment-1-Odd-Even\obj\Debug\net8.0\Assignment-1-Odd-Even.pdb
+D:\Dot net\Session Tasks\CSharpAssignmentSolution\Assignment-1-Odd-Even\obj\Debug\net8.0\Assignment-1-Odd-Even.genruntimeconfig.cache
+D:\Dot net\Session Tasks\CSharpAssignmentSolution\Assignment-1-Odd-Even\obj\Debug\net8.0\ref\Assignment-1-Odd-Even.dll

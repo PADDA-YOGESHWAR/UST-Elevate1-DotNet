@@ -7,7 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Copy constructor", "Copy co
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "privateConstructor", "privateConstructor\privateConstructor.csproj", "{A2B0136B-A343-43A1-8477-047B33445DA4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankingSystem", "BankingSystem\BankingSystem.csproj", "{09D1CB56-0F52-4E3D-AC76-F14DA3016624}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BankingSystem", "BankingSystem\BankingSystem.csproj", "{09D1CB56-0F52-4E3D-AC76-F14DA3016624}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UST demo", "UST demo\UST demo.csproj", "{E037C85A-2A63-4ECD-83CE-0B6AB666DDF6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UseOfFinallyBlock", "UseOfFinallyBlock\UseOfFinallyBlock.csproj", "{D6404F82-C444-43A5-9DEE-E5EDD2028EAF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +31,14 @@ Global
 		{09D1CB56-0F52-4E3D-AC76-F14DA3016624}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{09D1CB56-0F52-4E3D-AC76-F14DA3016624}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{09D1CB56-0F52-4E3D-AC76-F14DA3016624}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E037C85A-2A63-4ECD-83CE-0B6AB666DDF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E037C85A-2A63-4ECD-83CE-0B6AB666DDF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E037C85A-2A63-4ECD-83CE-0B6AB666DDF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E037C85A-2A63-4ECD-83CE-0B6AB666DDF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6404F82-C444-43A5-9DEE-E5EDD2028EAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6404F82-C444-43A5-9DEE-E5EDD2028EAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6404F82-C444-43A5-9DEE-E5EDD2028EAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6404F82-C444-43A5-9DEE-E5EDD2028EAF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

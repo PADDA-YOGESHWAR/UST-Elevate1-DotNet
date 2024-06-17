@@ -9,6 +9,7 @@ namespace Loging
     internal interface ILoggin
     {
         void Log(string message);
+        
     }
     public class FileLogging : ILoggin
     {

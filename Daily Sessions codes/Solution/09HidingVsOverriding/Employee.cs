@@ -4,6 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+
+//overriding -> run time polymorphism
+
 namespace _09HidingVsOverriding
 {
     public class Employee
@@ -27,4 +30,13 @@ namespace _09HidingVsOverriding
         }
 
     }
-}
+    //public class FullTimeEmployee : Employee
+    //{
+    //
+    //    public new override void PrintFullName()
+    //    {
+    //        Console.WriteLine($"FirstName: {FirstName}, LastName: {LastName} - Full Time");
+    //    }
+    //
+    //}
+}   //

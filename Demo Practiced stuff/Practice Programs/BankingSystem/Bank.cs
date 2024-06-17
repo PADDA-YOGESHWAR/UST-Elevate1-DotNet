@@ -9,6 +9,7 @@ using static System.Reflection.Metadata.BlobBuilder;
 namespace BankingSystem
 {
     public class Account {
+
         public int AccountNumber;
         public string AccountHolderName;
         public decimal Balance;
@@ -34,6 +35,7 @@ namespace BankingSystem
         {
             _Account.GetBalance(this);
         }
+
 
 
     }

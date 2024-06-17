@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "18Reflection/1.0.0": {
+        "dependencies": {
+          "CustomerLibrary": "1.0.0"
+        },
+        "runtime": {
+          "18Reflection.dll": {}
+        }
+      },
+      "CustomerLibrary/1.0.0": {
+        "runtime": {
+          "CustomerLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "18Reflection/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CustomerLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

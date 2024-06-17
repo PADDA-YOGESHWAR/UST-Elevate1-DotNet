@@ -1,0 +1,15 @@
+D:\Dot net\Session Tasks\CSharpAssignmentSolution\Assignment-2-Calculator\bin\Debug\net8.0\Assignment-2-Calculator.exe
+D:\Dot net\Session Tasks\CSharpAssignmentSolution\Assignment-2-Calculator\bin\Debug\net8.0\Assignment-2-Calculator.deps.json
+D:\Dot net\Session Tasks\CSharpAssignmentSolution\Assignment-2-Calculator\bin\Debug\net8.0\Assignment-2-Calculator.runtimeconfig.json
+D:\Dot net\Session Tasks\CSharpAssignmentSolution\Assignment-2-Calculator\bin\Debug\net8.0\Assignment-2-Calculator.dll
+D:\Dot net\Session Tasks\CSharpAssignmentSolution\Assignment-2-Calculator\bin\Debug\net8.0\Assignment-2-Calculator.pdb
+D:\Dot net\Session Tasks\CSharpAssignmentSolution\Assignment-2-Calculator\obj\Debug\net8.0\Assignment-2-Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dot net\Session Tasks\CSharpAssignmentSolution\Assignment-2-Calculator\obj\Debug\net8.0\Assignment-2-Calculator.AssemblyInfoInputs.cache
+D:\Dot net\Session Tasks\CSharpAssignmentSolution\Assignment-2-Calculator\obj\Debug\net8.0\Assignment-2-Calculator.AssemblyInfo.cs
+D:\Dot net\Session Tasks\CSharpAssignmentSolution\Assignment-2-Calculator\obj\Debug\net8.0\Assignment-2-Calculator.csproj.CoreCompileInputs.cache
+D:\Dot net\Session Tasks\CSharpAssignmentSolution\Assignment-2-Calculator\obj\Debug\net8.0\Assignment-2-Calculator.sourcelink.json
+D:\Dot net\Session Tasks\CSharpAssignmentSolution\Assignment-2-Calculator\obj\Debug\net8.0\Assignment-2-Calculator.dll
+D:\Dot net\Session Tasks\CSharpAssignmentSolution\Assignment-2-Calculator\obj\Debug\net8.0\refint\Assignment-2-Calculator.dll
+D:\Dot net\Session Tasks\CSharpAssignmentSolution\Assignment-2-Calculator\obj\Debug\net8.0\Assignment-2-Calculator.pdb
+D:\Dot net\Session Tasks\CSharpAssignmentSolution\Assignment-2-Calculator\obj\Debug\net8.0\Assignment-2-Calculator.genruntimeconfig.cache
+D:\Dot net\Session Tasks\CSharpAssignmentSolution\Assignment-2-Calculator\obj\Debug\net8.0\ref\Assignment-2-Calculator.dll

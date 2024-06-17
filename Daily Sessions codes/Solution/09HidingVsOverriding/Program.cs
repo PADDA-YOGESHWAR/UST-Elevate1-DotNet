@@ -4,6 +4,8 @@
     {
         static void Main(string[] args)
         {
+           // FullTimeEmployee emp = new FullTimeEmployee();
+            //emp.PrintFullName();
             Employee employee = new FullTimeEmployee();
             employee.PrintFullName();
         }

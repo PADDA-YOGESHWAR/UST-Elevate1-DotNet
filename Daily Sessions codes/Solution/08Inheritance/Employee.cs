@@ -23,6 +23,7 @@ namespace _08Inheritance
 
         public override void PrintFullName()
         {
+            
 
             Console.WriteLine($"FirstName: {FirstName}, LastName: {LastName} - Full Time");
         }
@@ -42,7 +43,7 @@ namespace _08Inheritance
     {
         public override void PrintFullName()
         {
-
+            
             Console.WriteLine($"FirstName: {FirstName}, LastName: {LastName} - Temp Time");
         }
     }

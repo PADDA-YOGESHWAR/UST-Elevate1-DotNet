@@ -37,7 +37,9 @@ class program
 {
 	public static void Main()
 	{
-		Console.Write("Good Morning...!");
-		Console.WriteLine("How are you..?");
+		Console.Write("Enter Your Name: ");
+		string name = Console.ReadLine();
+		Console.WriteLine(name);
+		string num = Console.ReadLine();
 	}
 }

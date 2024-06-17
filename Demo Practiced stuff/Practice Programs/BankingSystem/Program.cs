@@ -9,11 +9,7 @@
             Bank bank = new Bank();
             while (!exit)
             {
-                Console.WriteLine("Enter number to perform the operation : ");
-                Console.WriteLine("1.Create account");
-                Console.WriteLine("2.Select the bank account and perform any operation like(withdraw/deposit/getbalance)");
-                Console.WriteLine("3.Display all the accounts");
-                Console.WriteLine("4.Exit");
+                DisplayOptions();
                 int option = Convert.ToInt32(Console.ReadLine());
             
                 switch (option)
@@ -90,6 +86,14 @@
             }
         }
 
+        static void DisplayOptions()
+        {
+            Console.WriteLine("Enter number to perform the operation : ");
+            Console.WriteLine("1.Create account");
+            Console.WriteLine("2.Select the bank account and perform any operation like(withdraw/deposit/getbalance)");
+            Console.WriteLine("3.Display all the accounts");
+            Console.WriteLine("4.Exit");
+        }
         public static void AddSavingsBank(Bank bank)
         {
             IAccount SavingsAccount = new SavingsAccount();

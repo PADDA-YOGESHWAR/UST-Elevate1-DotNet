@@ -1,0 +1,15 @@
+D:\Dot net\Session Tasks\CSharpAssignmentSolution\Assignment-3-Temperature\bin\Debug\net8.0\Assignment-3-Temperature.exe
+D:\Dot net\Session Tasks\CSharpAssignmentSolution\Assignment-3-Temperature\bin\Debug\net8.0\Assignment-3-Temperature.deps.json
+D:\Dot net\Session Tasks\CSharpAssignmentSolution\Assignment-3-Temperature\bin\Debug\net8.0\Assignment-3-Temperature.runtimeconfig.json
+D:\Dot net\Session Tasks\CSharpAssignmentSolution\Assignment-3-Temperature\bin\Debug\net8.0\Assignment-3-Temperature.dll
+D:\Dot net\Session Tasks\CSharpAssignmentSolution\Assignment-3-Temperature\bin\Debug\net8.0\Assignment-3-Temperature.pdb
+D:\Dot net\Session Tasks\CSharpAssignmentSolution\Assignment-3-Temperature\obj\Debug\net8.0\Assignment-3-Temperature.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dot net\Session Tasks\CSharpAssignmentSolution\Assignment-3-Temperature\obj\Debug\net8.0\Assignment-3-Temperature.AssemblyInfoInputs.cache
+D:\Dot net\Session Tasks\CSharpAssignmentSolution\Assignment-3-Temperature\obj\Debug\net8.0\Assignment-3-Temperature.AssemblyInfo.cs
+D:\Dot net\Session Tasks\CSharpAssignmentSolution\Assignment-3-Temperature\obj\Debug\net8.0\Assignment-3-Temperature.csproj.CoreCompileInputs.cache
+D:\Dot net\Session Tasks\CSharpAssignmentSolution\Assignment-3-Temperature\obj\Debug\net8.0\Assignment-3-Temperature.sourcelink.json
+D:\Dot net\Session Tasks\CSharpAssignmentSolution\Assignment-3-Temperature\obj\Debug\net8.0\Assignment-3-Temperature.dll
+D:\Dot net\Session Tasks\CSharpAssignmentSolution\Assignment-3-Temperature\obj\Debug\net8.0\refint\Assignment-3-Temperature.dll
+D:\Dot net\Session Tasks\CSharpAssignmentSolution\Assignment-3-Temperature\obj\Debug\net8.0\Assignment-3-Temperature.pdb
+D:\Dot net\Session Tasks\CSharpAssignmentSolution\Assignment-3-Temperature\obj\Debug\net8.0\Assignment-3-Temperature.genruntimeconfig.cache
+D:\Dot net\Session Tasks\CSharpAssignmentSolution\Assignment-3-Temperature\obj\Debug\net8.0\ref\Assignment-3-Temperature.dll

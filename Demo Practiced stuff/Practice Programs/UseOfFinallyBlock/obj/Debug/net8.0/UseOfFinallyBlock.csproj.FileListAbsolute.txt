@@ -1,0 +1,15 @@
+D:\Dot net\Demo Practiced stuff\Practice Programs\UseOfFinallyBlock\obj\Debug\net8.0\UseOfFinallyBlock.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dot net\Demo Practiced stuff\Practice Programs\UseOfFinallyBlock\obj\Debug\net8.0\UseOfFinallyBlock.AssemblyInfoInputs.cache
+D:\Dot net\Demo Practiced stuff\Practice Programs\UseOfFinallyBlock\obj\Debug\net8.0\UseOfFinallyBlock.AssemblyInfo.cs
+D:\Dot net\Demo Practiced stuff\Practice Programs\UseOfFinallyBlock\obj\Debug\net8.0\UseOfFinallyBlock.csproj.CoreCompileInputs.cache
+D:\Dot net\Demo Practiced stuff\Practice Programs\UseOfFinallyBlock\obj\Debug\net8.0\UseOfFinallyBlock.sourcelink.json
+D:\Dot net\Demo Practiced stuff\Practice Programs\UseOfFinallyBlock\bin\Debug\net8.0\UseOfFinallyBlock.exe
+D:\Dot net\Demo Practiced stuff\Practice Programs\UseOfFinallyBlock\bin\Debug\net8.0\UseOfFinallyBlock.deps.json
+D:\Dot net\Demo Practiced stuff\Practice Programs\UseOfFinallyBlock\bin\Debug\net8.0\UseOfFinallyBlock.runtimeconfig.json
+D:\Dot net\Demo Practiced stuff\Practice Programs\UseOfFinallyBlock\bin\Debug\net8.0\UseOfFinallyBlock.dll
+D:\Dot net\Demo Practiced stuff\Practice Programs\UseOfFinallyBlock\bin\Debug\net8.0\UseOfFinallyBlock.pdb
+D:\Dot net\Demo Practiced stuff\Practice Programs\UseOfFinallyBlock\obj\Debug\net8.0\UseOfFinallyBlock.dll
+D:\Dot net\Demo Practiced stuff\Practice Programs\UseOfFinallyBlock\obj\Debug\net8.0\refint\UseOfFinallyBlock.dll
+D:\Dot net\Demo Practiced stuff\Practice Programs\UseOfFinallyBlock\obj\Debug\net8.0\UseOfFinallyBlock.pdb
+D:\Dot net\Demo Practiced stuff\Practice Programs\UseOfFinallyBlock\obj\Debug\net8.0\UseOfFinallyBlock.genruntimeconfig.cache
+D:\Dot net\Demo Practiced stuff\Practice Programs\UseOfFinallyBlock\obj\Debug\net8.0\ref\UseOfFinallyBlock.dll

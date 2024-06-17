@@ -1,0 +1,15 @@
+D:\Dot net\Session Tasks\CSharpAssignmentSolution\Assignment-5-FlipKoApp\bin\Debug\net8.0\Assignment-5-FlipKoApp.exe
+D:\Dot net\Session Tasks\CSharpAssignmentSolution\Assignment-5-FlipKoApp\bin\Debug\net8.0\Assignment-5-FlipKoApp.deps.json
+D:\Dot net\Session Tasks\CSharpAssignmentSolution\Assignment-5-FlipKoApp\bin\Debug\net8.0\Assignment-5-FlipKoApp.runtimeconfig.json
+D:\Dot net\Session Tasks\CSharpAssignmentSolution\Assignment-5-FlipKoApp\bin\Debug\net8.0\Assignment-5-FlipKoApp.dll
+D:\Dot net\Session Tasks\CSharpAssignmentSolution\Assignment-5-FlipKoApp\bin\Debug\net8.0\Assignment-5-FlipKoApp.pdb
+D:\Dot net\Session Tasks\CSharpAssignmentSolution\Assignment-5-FlipKoApp\obj\Debug\net8.0\Assignment-5-FlipKoApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dot net\Session Tasks\CSharpAssignmentSolution\Assignment-5-FlipKoApp\obj\Debug\net8.0\Assignment-5-FlipKoApp.AssemblyInfoInputs.cache
+D:\Dot net\Session Tasks\CSharpAssignmentSolution\Assignment-5-FlipKoApp\obj\Debug\net8.0\Assignment-5-FlipKoApp.AssemblyInfo.cs
+D:\Dot net\Session Tasks\CSharpAssignmentSolution\Assignment-5-FlipKoApp\obj\Debug\net8.0\Assignment-5-FlipKoApp.csproj.CoreCompileInputs.cache
+D:\Dot net\Session Tasks\CSharpAssignmentSolution\Assignment-5-FlipKoApp\obj\Debug\net8.0\Assignment-5-FlipKoApp.sourcelink.json
+D:\Dot net\Session Tasks\CSharpAssignmentSolution\Assignment-5-FlipKoApp\obj\Debug\net8.0\Assignment-5-FlipKoApp.dll
+D:\Dot net\Session Tasks\CSharpAssignmentSolution\Assignment-5-FlipKoApp\obj\Debug\net8.0\refint\Assignment-5-FlipKoApp.dll
+D:\Dot net\Session Tasks\CSharpAssignmentSolution\Assignment-5-FlipKoApp\obj\Debug\net8.0\Assignment-5-FlipKoApp.pdb
+D:\Dot net\Session Tasks\CSharpAssignmentSolution\Assignment-5-FlipKoApp\obj\Debug\net8.0\Assignment-5-FlipKoApp.genruntimeconfig.cache
+D:\Dot net\Session Tasks\CSharpAssignmentSolution\Assignment-5-FlipKoApp\obj\Debug\net8.0\ref\Assignment-5-FlipKoApp.dll
