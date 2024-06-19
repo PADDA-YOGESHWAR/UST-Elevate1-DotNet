@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "D:\\Dot net\\Daily Sessions codes\\Solution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{63F39AEA-B24E-49D4-BA8A-CB992E1810F8}|24Dictionary\\24Dictionary.csproj|d:\\dot net\\daily sessions codes\\solution\\24dictionary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63F39AEA-B24E-49D4-BA8A-CB992E1810F8}|24Dictionary\\24Dictionary.csproj|solutionrelative:24dictionary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0E6C6D36-A265-45D0-B0D2-F284C4C31C66}|25ThreadingBasics\\25ThreadingBasics.csproj|d:\\dot net\\daily sessions codes\\solution\\25threadingbasics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E6C6D36-A265-45D0-B0D2-F284C4C31C66}|25ThreadingBasics\\25ThreadingBasics.csproj|solutionrelative:25threadingbasics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{17D95BEC-F44B-4FF7-B5B8-F8D0A3BF0563}|PracticeDemo\\PracticeDemo.csproj|d:\\dot net\\daily sessions codes\\solution\\practicedemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{17D95BEC-F44B-4FF7-B5B8-F8D0A3BF0563}|PracticeDemo\\PracticeDemo.csproj|solutionrelative:practicedemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D0985D1-E787-416F-B70D-803A7FE55A76}|15DelegateUseDemo\\15DelegateUseDemo.csproj|d:\\dot net\\daily sessions codes\\solution\\15delegateusedemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D0985D1-E787-416F-B70D-803A7FE55A76}|15DelegateUseDemo\\15DelegateUseDemo.csproj|solutionrelative:15delegateusedemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0E6C6D36-A265-45D0-B0D2-F284C4C31C66}|25ThreadingBasics\\25ThreadingBasics.csproj|d:\\dot net\\daily sessions codes\\solution\\25threadingbasics\\25threadingbasics.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0E6C6D36-A265-45D0-B0D2-F284C4C31C66}|25ThreadingBasics\\25ThreadingBasics.csproj|solutionrelative:25threadingbasics\\25threadingbasics.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,21 +18,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Dot net\\Daily Sessions codes\\Solution\\24Dictionary\\Program.cs",
-              "RelativeDocumentMoniker": "24Dictionary\\Program.cs",
-              "ToolTip": "D:\\Dot net\\Daily Sessions codes\\Solution\\24Dictionary\\Program.cs",
-              "RelativeToolTip": "24Dictionary\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAABJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-15T07:23:38.482Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -47,28 +30,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Dot net\\Daily Sessions codes\\Solution\\15DelegateUseDemo\\Program.cs",
-              "RelativeDocumentMoniker": "15DelegateUseDemo\\Program.cs",
-              "ToolTip": "D:\\Dot net\\Daily Sessions codes\\Solution\\15DelegateUseDemo\\Program.cs",
-              "RelativeToolTip": "15DelegateUseDemo\\Program.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAQwB0AAABNAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-15T07:04:56.232Z",
+              "DocumentIndex": 1,
+              "Title": "25ThreadingBasics",
+              "DocumentMoniker": "D:\\Dot net\\Daily Sessions codes\\Solution\\25ThreadingBasics\\25ThreadingBasics.csproj",
+              "RelativeDocumentMoniker": "25ThreadingBasics\\25ThreadingBasics.csproj",
+              "ToolTip": "D:\\Dot net\\Daily Sessions codes\\Solution\\25ThreadingBasics\\25ThreadingBasics.csproj",
+              "RelativeToolTip": "25ThreadingBasics\\25ThreadingBasics.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-18T05:57:34.627Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Dot net\\Daily Sessions codes\\Solution\\PracticeDemo\\Program.cs",
-              "RelativeDocumentMoniker": "PracticeDemo\\Program.cs",
-              "ToolTip": "D:\\Dot net\\Daily Sessions codes\\Solution\\PracticeDemo\\Program.cs",
-              "RelativeToolTip": "PracticeDemo\\Program.cs",
-              "ViewState": "AQIAACMAAAAAAAAAAAAswBgAAAAJAAAA",
+              "DocumentMoniker": "D:\\Dot net\\Daily Sessions codes\\Solution\\25ThreadingBasics\\Program.cs",
+              "RelativeDocumentMoniker": "25ThreadingBasics\\Program.cs",
+              "ToolTip": "D:\\Dot net\\Daily Sessions codes\\Solution\\25ThreadingBasics\\Program.cs",
+              "RelativeToolTip": "25ThreadingBasics\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-15T05:24:44.942Z",
+              "WhenOpened": "2024-06-18T05:42:51.976Z",
               "EditorCaption": ""
             }
           ]

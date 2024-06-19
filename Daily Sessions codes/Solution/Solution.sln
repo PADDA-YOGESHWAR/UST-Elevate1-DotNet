@@ -61,7 +61,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "23ListAgain", "23ListAgain\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DotNetTips", "DotNetTips\DotNetTips.csproj", "{421757AC-245F-4D23-85A2-171BB0C50D5D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticeDemo", "PracticeDemo\PracticeDemo.csproj", "{17D95BEC-F44B-4FF7-B5B8-F8D0A3BF0563}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PracticeDemo", "PracticeDemo\PracticeDemo.csproj", "{17D95BEC-F44B-4FF7-B5B8-F8D0A3BF0563}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "25ThreadingBasics", "25ThreadingBasics\25ThreadingBasics.csproj", "{0E6C6D36-A265-45D0-B0D2-F284C4C31C66}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -185,6 +187,10 @@ Global
 		{17D95BEC-F44B-4FF7-B5B8-F8D0A3BF0563}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{17D95BEC-F44B-4FF7-B5B8-F8D0A3BF0563}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{17D95BEC-F44B-4FF7-B5B8-F8D0A3BF0563}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E6C6D36-A265-45D0-B0D2-F284C4C31C66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E6C6D36-A265-45D0-B0D2-F284C4C31C66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E6C6D36-A265-45D0-B0D2-F284C4C31C66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E6C6D36-A265-45D0-B0D2-F284C4C31C66}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

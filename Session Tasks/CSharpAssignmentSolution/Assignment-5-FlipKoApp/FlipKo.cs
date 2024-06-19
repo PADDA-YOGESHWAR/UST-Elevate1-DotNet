@@ -12,8 +12,13 @@ namespace Assignment_5_FlipKoApp
 
         public void AddProduct(Product product)
         {
-            products.Add(product);
-            Console.WriteLine($"Product {product.GetName()} is Added");
+            if(product!=null)
+            {
+                product.Id = products.Count==0 ?1000:products.Max(p => p.Id)+1;
+                products.Add(product);
+                Console.WriteLine($"Product {product.GetName()} is Added");
+            }
+            
         }
 
         public void DisplayAllProducts()

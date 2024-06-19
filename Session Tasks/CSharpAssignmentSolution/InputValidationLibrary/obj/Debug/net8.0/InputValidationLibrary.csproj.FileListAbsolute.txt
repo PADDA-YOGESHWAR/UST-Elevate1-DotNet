@@ -1,0 +1,12 @@
+D:\Dot net\Session Tasks\CSharpAssignmentSolution\InputValidationLibrary\bin\Debug\net8.0\InputValidationLibrary.deps.json
+D:\Dot net\Session Tasks\CSharpAssignmentSolution\InputValidationLibrary\bin\Debug\net8.0\InputValidationLibrary.dll
+D:\Dot net\Session Tasks\CSharpAssignmentSolution\InputValidationLibrary\bin\Debug\net8.0\InputValidationLibrary.pdb
+D:\Dot net\Session Tasks\CSharpAssignmentSolution\InputValidationLibrary\obj\Debug\net8.0\InputValidationLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dot net\Session Tasks\CSharpAssignmentSolution\InputValidationLibrary\obj\Debug\net8.0\InputValidationLibrary.AssemblyInfoInputs.cache
+D:\Dot net\Session Tasks\CSharpAssignmentSolution\InputValidationLibrary\obj\Debug\net8.0\InputValidationLibrary.AssemblyInfo.cs
+D:\Dot net\Session Tasks\CSharpAssignmentSolution\InputValidationLibrary\obj\Debug\net8.0\InputValidationLibrary.csproj.CoreCompileInputs.cache
+D:\Dot net\Session Tasks\CSharpAssignmentSolution\InputValidationLibrary\obj\Debug\net8.0\InputValidationLibrary.sourcelink.json
+D:\Dot net\Session Tasks\CSharpAssignmentSolution\InputValidationLibrary\obj\Debug\net8.0\InputValidationLibrary.dll
+D:\Dot net\Session Tasks\CSharpAssignmentSolution\InputValidationLibrary\obj\Debug\net8.0\refint\InputValidationLibrary.dll
+D:\Dot net\Session Tasks\CSharpAssignmentSolution\InputValidationLibrary\obj\Debug\net8.0\InputValidationLibrary.pdb
+D:\Dot net\Session Tasks\CSharpAssignmentSolution\InputValidationLibrary\obj\Debug\net8.0\ref\InputValidationLibrary.dll

@@ -15,6 +15,7 @@ namespace Assignment_5_FlipKoApp
 
         private static string CompanyName {  get; set; }
 
+        private static string StringValue {  get; set; }
         //returns only Double Value
         public static double GetDoubleValue()
         {
@@ -103,14 +104,18 @@ namespace Assignment_5_FlipKoApp
                 
                 if (!flipko.CheckProductAvailability(productName))
                 {
-                    Valid = true;
                     NameCheck = productName;
+                    if (NameCheck.Length > 0)
+                    {
+                        Valid = true;
+                    }
                 }
                 else
                 {
                     Console.WriteLine("Product already exists!!! Please add another product");
                     Console.WriteLine("Please Try Again");
                 }
+               
             }
             return NameCheck;
         }
@@ -123,17 +128,23 @@ namespace Assignment_5_FlipKoApp
             {
                 Console.Write("Enter Company Name : ");
                 string companyName = Console.ReadLine();
-                if (int.TryParse(companyName, out int IntValue))
+                if (!int.TryParse(companyName, out int IntValue))
                 {
-
-                    Console.WriteLine("Invalid Input!!! Company Name can't be only integers");
-                    Console.WriteLine("Please Try Again");
+                    if(companyName.Length>0)
+                    {
+                        Valid = true;
+                        CompanyName = companyName;
+                    }
+                    
+                   
                 }
                 else
                 {
-                    Valid = true;
-                    CompanyName = companyName;
+                   
+                    Console.WriteLine("Invalid Input!!! Company Name can't be only integers or Empty");
+                    Console.WriteLine("Please Try Again");
                 }
+                
             }
             return CompanyName;
         }
@@ -146,7 +157,7 @@ namespace Assignment_5_FlipKoApp
             {
                 if (int.TryParse(Console.ReadLine(), out int IntValue))
                 {
-                    if(IntValue < 4 && IntValue > 0)
+                    if(IntValue <= 4 && IntValue > 0)
                     {
                         Valid = true;
                         InputValidation.IntValue = IntValue;
@@ -173,6 +184,25 @@ namespace Assignment_5_FlipKoApp
                 return input;
             }
             return char.ToUpper(input[0]) + input.Substring(1).ToLower();
+        }
+        public static string GetStringInput()
+        {
+            bool Valid = false;
+
+            while (!Valid)
+            {
+                StringValue = Console.ReadLine();
+                if(StringValue.Length >0)
+                {
+                    Valid = true;
+                }
+                else
+                {
+                    Console.Write("Please Enter the discription : ");
+                }
+            }
+            
+            return StringValue;
         }
     }
 }

@@ -13,17 +13,16 @@ namespace Assignment_5_FlipKoApp
         private string ManufacturedBy { get; set; }
         private double Price { get; set; }
 
-        private int Id { get; set; }
+        public int Id { get; set; }
 
-        private static int nextId = 1000;
+        
         public Product(string ProductName,string ProductDiscription,string Company,double ProductPrice,FlipKo flipko)
         {
             Name = ProductName;
             Description = ProductDiscription;
             ManufacturedBy = Company;
             Price = ProductPrice;
-            this.Id = nextId;
-            nextId++;
+            
             flipko.AddProduct(this);
         }
         static public void DisplayProductDetails(Product product)

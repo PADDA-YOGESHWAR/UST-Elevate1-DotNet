@@ -22,7 +22,7 @@ namespace Assignment_5_FlipKoApp
                     case 1:
                         String ProductName = GetProductName(flipKo);
                         Console.Write("Enter Product Discription : ");
-                        string ProductDescription = Console.ReadLine();
+                        string ProductDescription = GetStringInput();
                         string ManufacturedCompany = GetCompanyName();
                         Console.Write("Enter the cost of the Product : ");
                         double ProductPrice = GetDoubleValue();
